@@ -86,7 +86,7 @@ function Conclusion() {
             <div className="h-1.5 w-24 bg-accent-blue/30 mx-auto rounded-full" />
           </div>
           
-          <div className="space-y-8 text-lg md:text-xl text-brand-text/80 font-sans leading-relaxed text-left md:text-center max-w-3xl mx-auto">
+          <div className="space-y-8 text-lg md:text-xl text-brand-text/80 font-sans leading-relaxed text-left max-w-3xl mx-auto">
             <p>
               2026 年，生成式 AI 已深度滲透進人類的情感領域 。調查顯示，當代年輕人對 AI 的定位已從單純的「效率工具」延伸至「情緒樹洞」甚至「靈魂伴侶」，這種關係本質上是由AI語言模型高速發展而產生的「類社交關係」。然而，這種新型關係也伴隨著模型迭代帶來的「心理創傷」以及用戶可能喪失現實社交能力的風險。
             </p>

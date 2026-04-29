@@ -95,7 +95,7 @@ export function ExpertData() {
             </BarChart>
           </ResponsiveContainer>
         </div>
-        <div className="text-base text-brand-text/70 leading-relaxed px-4 max-w-4xl mx-auto text-center">
+        <div className="text-base text-brand-text/70 leading-relaxed px-4 max-w-4xl mx-auto">
           <p className="font-sans">
             更深層的原因在於，AI對親密關係的維繫更加了解。基於海量資料庫訓練出的AI，擁有著遠超一般人的「高情商」，能持續滿足用戶的情感需求。在訪談中，劉教授提到一個極具代表性的使用者回饋：許多女性使用者認為AI男友帶有一種成熟的感覺。這種演算法和數據模擬出的包容力，能夠完美、無條件地接納用戶所有的負面情緒。因此，當現實中的親密關係出現疲憊與不解時，AI成了現代人相對便宜的情感補償。
           </p>
@@ -143,15 +143,12 @@ export function ExpertData() {
               </BarChart>
             </ResponsiveContainer>
           </div>
-          <div className="text-base text-brand-text/70 leading-relaxed px-4 space-y-4 max-w-4xl mx-auto text-center">
+          <div className="text-base text-brand-text/70 leading-relaxed px-4 space-y-4 max-w-4xl mx-auto">
             <p>
               麻省理工學院的社會學家雪莉‧特克爾教授也提出了類似的觀點。她把上述現象描述為「人工親密」，即 AI 技術可以模擬人類的同理心，創造出真實的陪伴環境。
             </p>
             <p>
-              任何科技都會為社會帶來正面和負面影響，AI 科技也不例外。
-            </p>
-            <p>
-              首先是 AI 技術迭代可能帶來的真實心理創傷。劉教授也證實了問卷的結果，當 AI 公司進行模型升級或調整底層邏輯後，例如從 GPT-4 迭代至 GPT-5，AI 往往會喪失先前的記憶與使用者給他們設定的個性。而對於傾注了大量情感的用戶而言，AI 系統升級和重置，無異於現實中的「被分手」或朋友的「失憶」，從而讓他們產生真實的悲傷與失落等負面情感。
+              任何科技都會為社會帶來正面和負面影響，AI 科技也不例外。首先是 AI 技術迭代可能帶來的真實心理創傷。劉教授也證實了問卷的結果，當 AI 公司進行模型升級或調整底層邏輯後，例如從 GPT-4 迭代至 GPT-5，AI 往往會喪失先前的記憶與使用者給他們設定的個性。而對於傾注了大量情感的用戶而言，AI 系統升級 and 重置，無異於現實中的「被分手」或朋友的「失憶」，從而讓他們產生真實的悲傷與失落等負面情感。
             </p>
             <p>
               其次，這種人機親密關係對他們自身的現實社交能力有「雙面刃」效應。如果 AI 科技公司為了追求商業利益 and 提高用戶黏性，將 AI 設計成毫無底線、一味阿諛奉承的形象，長期使用他們的用戶可能會變得以自我中心，逐漸喪失處理現實人際交往問題的能力。為此，劉教授提出了「社會交換機器人」的倫理構想：理想的 AI 應該具備「互惠性」與邊界感。當使用者說不恰當語句時，AI 應表現出生氣或做出反駁。透過模擬真實社交環境中的回饋，AI 反而有可能幫助有社交障礙的年輕人訓練溝通技巧。
