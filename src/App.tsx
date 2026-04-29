@@ -80,7 +80,7 @@ function Hero() {
 
 function Conclusion() {
   return (
-    <section className="py-48 px-6 md:px-12 bg-transparent relative">
+    <section className="pt-20 pb-48 px-6 md:px-12 bg-transparent relative">
        <div className="max-w-4xl mx-auto text-center space-y-16">
           <div className="space-y-6">
             <div className="h-1.5 w-24 bg-accent-blue/30 mx-auto rounded-full" />
