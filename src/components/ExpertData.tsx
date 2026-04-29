@@ -95,8 +95,8 @@ export function ExpertData() {
             </BarChart>
           </ResponsiveContainer>
         </div>
-        <div className="glass-card p-10 md:p-12 rounded-[3.5rem] max-w-4xl">
-          <p className="text-brand-text/70 font-sans leading-relaxed text-base">
+        <div className="text-base text-brand-text/70 leading-relaxed px-4 max-w-4xl mx-auto text-center">
+          <p className="font-sans">
             更深層的原因在於，AI對親密關係的維繫更加了解。基於海量資料庫訓練出的AI，擁有著遠超一般人的「高情商」，能持續滿足用戶的情感需求。在訪談中，劉教授提到一個極具代表性的使用者回饋：許多女性使用者認為AI男友帶有一種成熟的感覺。這種演算法和數據模擬出的包容力，能夠完美、無條件地接納用戶所有的負面情緒。因此，當現實中的親密關係出現疲憊與不解時，AI成了現代人相對便宜的情感補償。
           </p>
         </div>
@@ -143,7 +143,7 @@ export function ExpertData() {
               </BarChart>
             </ResponsiveContainer>
           </div>
-          <div className="text-base text-brand-text/70 leading-relaxed px-4 space-y-4 max-w-4xl">
+          <div className="text-base text-brand-text/70 leading-relaxed px-4 space-y-4 max-w-4xl mx-auto text-center">
             <p>
               麻省理工學院的社會學家雪莉‧特克爾教授也提出了類似的觀點。她把上述現象描述為「人工親密」，即 AI 技術可以模擬人類的同理心，創造出真實的陪伴環境。
             </p>
