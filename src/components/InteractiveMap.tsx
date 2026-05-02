@@ -95,7 +95,7 @@ export function InteractiveMap() {
           },
           geo: {
             map: 'world',
-            roam: true,
+            roam: false,
             zoom: 1.2,
             center: [0, 25],
             label: {
@@ -194,6 +194,13 @@ export function InteractiveMap() {
 
   return (
     <section id="mapping" className="py-32 px-6 md:px-12 max-w-[1400px] mx-auto bg-transparent relative">
+      <div className="text-center mb-16">
+        <h2 className="text-3xl md:text-5xl font-display font-bold text-brand-text tracking-tight">
+          人类与AI产生情感链接的现象在全球均有发生
+        </h2>
+        <div className="h-1.5 w-24 bg-accent-blue/30 mx-auto rounded-full mt-6" />
+      </div>
+
       {/* Floating Image Tooltip */}
       <AnimatePresence>
         {activeIndex !== null && (
