@@ -127,9 +127,9 @@ export function SurveyAnalysis() {
         </ChartWrapper>
       </div>
 
-      <div className="mt-32 text-center max-w-2xl mx-auto">
-        <p className="text-xl md:text-2xl font-serif italic text-brand-text/60 leading-relaxed">
-          「 在對 205 份問卷的量化分析之外，個體的真實情感正在更深層次地揭示人與 AI 關係中更隱秘的那部分。」
+      <div className="mt-32 text-center max-w-4xl mx-auto">
+        <p className="text-lg md:text-xl text-brand-text/80 font-sans leading-relaxed">
+          在對 205 份問卷進行量化分析之後，我們為了觸及人機關係中更隱蔽且更具溫度的部分。隨後邀請了三位具有代表性的受訪者，進行了一對一的深度訪談。在這些對話中，我們圍繞著他們截然不同的使用目的，從尋求零壓力的社交環境，到建立理想化的人機關係，再到把其視為獲取社交媒體流量的工具，三個層面展開了不同深度的討論。這些個案，幫助我們進一步了解了她們複雜而真實的內心世界。
         </p>
       </div>
     </section>
